@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-admin-pannel/static/css/main.f5655afc.css",
+    "main.js": "/React-admin-pannel/static/js/main.0772c950.js",
+    "static/js/453.7b07bf66.chunk.js": "/React-admin-pannel/static/js/453.7b07bf66.chunk.js",
+    "static/media/pattern.png": "/React-admin-pannel/static/media/pattern.00d3a39788bac3559aad.png",
+    "static/media/pro03.png": "/React-admin-pannel/static/media/pro03.7cbe0b415ecbb1ae2c56.png",
+    "static/media/pro05.png": "/React-admin-pannel/static/media/pro05.78ccfef53378d310ff3c.png",
+    "static/media/pro01.png": "/React-admin-pannel/static/media/pro01.a56e8999777abe4ea8f9.png",
+    "static/media/pro04.png": "/React-admin-pannel/static/media/pro04.018a92dfaaa870cc5147.png",
+    "static/media/pro02.png": "/React-admin-pannel/static/media/pro02.496ecbfe08a75877cbfe.png",
+    "static/media/skirt.png": "/React-admin-pannel/static/media/skirt.e464912e7ce21095e57e.png",
+    "static/media/logo.png": "/React-admin-pannel/static/media/logo.aeac39390ec5d6f430ed.png",
+    "static/media/user.png": "/React-admin-pannel/static/media/user.3bf35b9195df2ae24e78.png",
+    "static/media/slick.svg": "/React-admin-pannel/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/React-admin-pannel/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/React-admin-pannel/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/React-admin-pannel/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/React-admin-pannel/index.html",
+    "main.f5655afc.css.map": "/React-admin-pannel/static/css/main.f5655afc.css.map",
+    "main.0772c950.js.map": "/React-admin-pannel/static/js/main.0772c950.js.map",
+    "453.7b07bf66.chunk.js.map": "/React-admin-pannel/static/js/453.7b07bf66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5655afc.css",
+    "static/js/main.0772c950.js"
+  ]
+}
